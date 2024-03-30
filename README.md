@@ -78,7 +78,7 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Furqan3/cryptos">
+        <a href="https://github.com/Furqan3/Histopathological-Images-Analysis">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Furqan3&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
         </a>
       </p>
@@ -86,7 +86,7 @@
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Furqan3">
+        <a href="https://github.com/Furqan3/">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Furqan3&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
