@@ -79,7 +79,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/Furqan3/Histopathological-Images-Analysis">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Furqan3&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Furqan3&repo=Histopathological-Images-Analysis&theme=nightowl&show_owner=true" alt="Histopathological Images Analysis" />
         </a>
       </p>
     </td>
