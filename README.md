@@ -34,6 +34,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Furqan3&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Furqan3&theme=gotham&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Furqan3&theme=gotham&hide_border=false&layout=compact)
+<img
+  src="https://github.com/<Furqan3>/<Ocean-Shooter-Combat-Game>/blob/<main>/images/stat.svg"
+  alt="Alternative Text"
+/>
 
 ## 🏆 GitHub Trophies:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Furqan3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
