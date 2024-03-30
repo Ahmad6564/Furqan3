@@ -1,5 +1,6 @@
 <!--Banner-->
-![Furqan3 Banner Image](https://github.com/Furqan3/Furqan3/blob/main/banner.png)
+![Furqan3 Banner Image](https://github.com/Furqan3/Furqan3/assets/88136810/43776a6b-a65f-4206-854e-0ffc1b4dfa1e)
+
 
 <!--Night Owl image-->
 <div>
@@ -7,20 +8,20 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
-*Digital Craftsman (Developer / Programmer)*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Furqan! 
+*COMPUTER ENGINEER*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I a passionate computer engineering student with a keen interest in software development, machine learning and embedded systems.
+
+## About Me </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Furqan3).
 - 💁‍♂️ Volunteer MOD at **Dev Community**.
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://Furqan3.github.io) for more details about me.
+- 💻 Visit my [Portfolio](https://github.com/Furqan3) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -32,11 +33,14 @@
 <br />
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h2 align="center">Languages and Tools</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
+  <img width="500px" src="https://skillicons.dev/icons?i=cpp,py,go,matlab,flutter,mysql,latex,git,linux,vscode,pycharm,tensorflow,opencv,sklearn,arduino,github,androidstudio,gitlab,obsidian,visualstudio,html,css,js,react,docker,blender,unity,photoshop,figma,illustrator&perline=10" />
 </p>
 <br />
+
+
+
 
 
 <!--Trophies Section-->   
@@ -113,21 +117,18 @@
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+ <a href="https://www.linkedin.com/in/furqan-ktk/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Furqan linkedin style="margin-bottom: 5px;" />
 </a>
   
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+<a href="mailto:fahmad.ktk@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=Furqan mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/fahmad.ktk" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Furqan Instagram style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://twitter.com/kiran__a__n" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
-</a>
 </div>
 
 <!--Footer--> 
