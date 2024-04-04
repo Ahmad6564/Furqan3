@@ -1,5 +1,5 @@
 <!--Banner-->
-![Furqan3 Banner Image](https://github.com/Furqan3/Furqan3/assets/88136810/43776a6b-a65f-4206-854e-0ffc1b4dfa1e)
+![Ahmad6564 Banner Image](https://github.com/Furqan3/Furqan3/assets/88136810/43776a6b-a65f-4206-854e-0ffc1b4dfa1e)
 
 
 <!--Night Owl image-->
@@ -8,12 +8,12 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Furqan! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Ahmad 
 *COMPUTER ENGINEER*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I a passionate computer engineering student with a keen interest in software development, machine learning and embedded systems.
+<p align="left">I'm an enthusiastic computer engineering student deeply interested in machine learning, deep learning, data science, and embedded systems.
 
 ## About Me </p>
 
@@ -21,7 +21,6 @@
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Volunteer MOD at **Dev Community**.
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://github.com/Furqan3) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
